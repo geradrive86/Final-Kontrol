@@ -1,0 +1,15 @@
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\bin\Debug\net8.0\Final Kontrol.exe
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\bin\Debug\net8.0\Final Kontrol.deps.json
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\bin\Debug\net8.0\Final Kontrol.runtimeconfig.json
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\bin\Debug\net8.0\Final Kontrol.dll
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\bin\Debug\net8.0\Final Kontrol.pdb
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\obj\Debug\net8.0\Final Kontrol.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\obj\Debug\net8.0\Final Kontrol.AssemblyInfoInputs.cache
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\obj\Debug\net8.0\Final Kontrol.AssemblyInfo.cs
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\obj\Debug\net8.0\Final Kontrol.csproj.CoreCompileInputs.cache
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\obj\Debug\net8.0\Final Kontrol.sourcelink.json
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\obj\Debug\net8.0\Final Kontrol.dll
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\obj\Debug\net8.0\refint\Final Kontrol.dll
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\obj\Debug\net8.0\Final Kontrol.pdb
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\obj\Debug\net8.0\Final Kontrol.genruntimeconfig.cache
+D:\YandexDisk\КУРСЫ\Информационная Безопасность GeekBrains\Знакомство с базами данных\Final Kontrol\obj\Debug\net8.0\ref\Final Kontrol.dll
